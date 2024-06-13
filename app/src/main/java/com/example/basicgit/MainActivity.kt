@@ -101,5 +101,5 @@ fun screen(){
 @Preview
 @Composable
 fun asd(){
-    scren()
+    screen()
 }
